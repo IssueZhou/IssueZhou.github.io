@@ -89,16 +89,17 @@ ul.inline li:last-child:after { content: ""; }
     max-width: 864px;
     text-align: center;
     padding: 0 16px;    
-    height: 50px;    
+    height: 30px;    
 }
 
 #header {    
-    position: fixed;
+    position: fixed;    
     border-bottom: 1px solid #CCC;
-    margin: 0 0;
-    text-align: center;    
-    background-color: white; 
-    width: 61%;
+    left: 0;
+    right: 0;
+    margin: auto;  
+    background-color: white;     
+    max-width: 864px;
 }
 
 .seperator {
