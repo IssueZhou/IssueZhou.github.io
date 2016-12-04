@@ -89,7 +89,7 @@ ul.inline li:last-child:after { content: ""; }
     max-width: 864px;
     text-align: center;
     padding: 0 16px;    
-    height: 20px;    
+    height: 50px;    
 }
 
 #header {    
