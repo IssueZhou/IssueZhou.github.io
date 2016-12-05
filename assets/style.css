@@ -191,6 +191,11 @@ ul#nav li.current a {
     font-weight: bold;
 }
 
+.employer1 {
+    float: left;
+    width: 80%;    
+}
+
 .period {
     float: left;
     width: 50%;
